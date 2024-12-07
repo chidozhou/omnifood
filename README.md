@@ -21,7 +21,7 @@ To view or edit the project locally, ensure you have a modern web browser and a 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chidozhou/omnifood.git
+   git clone https://github.com/user-name/omnifood.git
    ```
 2. Navigate to the project directory:
    ```bash
